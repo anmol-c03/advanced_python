@@ -11,7 +11,7 @@ class student:
         return 20000
     
     def full_name(self):
-        return self.fname+self.lname
+        return f'{self.fname} {self.lname}'
     
     
 std1=student('Anmol','chalise')
