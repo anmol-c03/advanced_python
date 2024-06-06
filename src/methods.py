@@ -44,12 +44,15 @@ class std_static_mtd(student_alt_cons):
         return True
 
 #------------------------------------------------------------------------------------------------------------------------------
-#class variable
+
+'class variable'
+
 student_alt_cons.raise_admission_fee()
 print(student.admission_charge)
 print(student_alt_cons.admission_charge,'\n')
 #------------------------------------------------------------------------------------------------------------------------------
-# for from_string (class method as constructor alternative )
+
+' for from_string (class method as constructor alternative )'
 std_str_1='Anmol-Chalise'
 alt_cons=student_alt_cons.from_string(std_str_1)
 print(f'{alt_cons.fname} {alt_cons.lname}\n')
@@ -62,9 +65,9 @@ print(f'{alt_cons.fname} {alt_cons.lname}\n')
 # print(f'{new_alt_cons.fname} {new_alt_cons.lname}')
 
 #------------------------------------------------------------------------------------------------------------------------------
-#static method implementation
-today_date=datetime.date(2023,5,28)
+'static method implementation'
 
+today_date=datetime.date(2023,5,28)
 print(std_static_mtd.is_holiday(today_date))
 #another way of doing this
 static_mtd_1=std_static_mtd()
