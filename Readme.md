@@ -27,15 +27,15 @@ pip install -r requirements.txt
 # Usage
 This project is divided into several modules, each showcasing different aspects of Python features.
 
-Classes
+# Classes
 The variable_instances.py module contains examples of Python classes and their usage.
 
-Dunder 
+# Dunder 
 The dunder_methods.py module demonstrates various dunder methods and their purposes.
 
-Decorators
+# Decorators
 In the decorators.py module, you'll find examples of decorators like property class,setter,deleter and how they can be used to modify function behavior.
 
-Methods
+# Methods
 The methods.py module showcases alternative constructor methods in Python classes.
 
