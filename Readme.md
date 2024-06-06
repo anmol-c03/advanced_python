@@ -1,5 +1,10 @@
 # Study Project: Python Classes and Features
+# Table of Contents
+1. [Project Overview](#project-overview)
+2. [Installation](#installation)
+3. [Usage](#usage)
 
+# Project Overview
 This project contains examples and explanations of Python classes, dunder methods, decorators, and alternative constructors for study purposes.
 
 ## Installation
@@ -13,12 +18,13 @@ git clone https://github.com/anmol-c03/advanced_python.git
 Then, navigate to the project directory and install the required dependencies:
 
 ```bash
-cd your-repo
+cd advanced_python
+
 pip install -r requirements.txt
 ```
 
 
-Usage
+# Usage
 This project is divided into several modules, each showcasing different aspects of Python features.
 
 Classes
