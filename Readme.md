@@ -1,10 +1,10 @@
-# Study Project: Python Classes and Features
-# Table of Contents
+## Study Project: Python Classes and Features
+## Table of Contents
 1. [Project Overview](#project-overview)
 2. [Installation](#installation)
 3. [Usage](#usage)
 
-# Project Overview
+## Project Overview
 This project contains examples and explanations of Python classes, dunder methods, decorators, and alternative constructors for study purposes.
 
 ## Installation
@@ -24,18 +24,18 @@ pip install -r requirements.txt
 ```
 
 
-# Usage
+## Usage
 This project is divided into several modules, each showcasing different aspects of Python features.
 
-# Classes
+## Classes
 The variable_instances.py module contains examples of Python classes and their usage.
 
-# Dunder 
+### Dunder 
 The dunder_methods.py module demonstrates various dunder methods and their purposes.
 
-# Decorators
+### Decorators
 In the decorators.py module, you'll find examples of decorators like property class,setter,deleter and how they can be used to modify function behavior.
 
-# Methods
+###  Methods
 The methods.py module showcases alternative constructor methods in Python classes.
 
