@@ -8,14 +8,14 @@ To use this project, simply clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/anmol-c03/advanced_python.git
-exit
+```
 
 Then, navigate to the project directory and install the required dependencies:
 
 ```bash
 cd your-repo
 pip install -r requirements.txt
-exit
+```
 
 
 Usage
